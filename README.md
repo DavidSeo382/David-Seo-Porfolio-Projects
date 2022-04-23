@@ -1,5 +1,3 @@
-# Porfolio Projects
-
 # [Project 1: Google Data Analytics Capstone Project](https://github.com/DavidSeo382/Google-Data-Analytics-Capstone-Project)
 
 * Tasked with helping a fictional bike-share company increase user membership
