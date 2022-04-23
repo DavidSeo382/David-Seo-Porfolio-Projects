@@ -1,5 +1,5 @@
 Data Analyst Portfolio
-# [Project 1: Google Data Analytics Capstone Project](https://github.com/DavidSeo382/Google-Data-Analytics-Capstone-Project)
+# [Project 1: Data Analysis on a Bike-Sharing Company](https://github.com/DavidSeo382/Google-Data-Analytics-Capstone-Project)
 
 * Tasked with helping a fictional bike-share company increase user membership
 * Created Business Task
