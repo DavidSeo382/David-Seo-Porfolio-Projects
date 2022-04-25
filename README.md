@@ -11,3 +11,9 @@ Portfolio Projects
 * Further visualization in Tableau
 * PowerPoint to represent findings
 
+# [Project 2: Covid-19 Database Design and SQL Procedures](https://github.com/DavidSeo382/Covid-19-Database-Design-and-SQL-Procedures)
+
+* Designed a relational database where I created multiple tables linking them with primary-foreign key relationships. Afterwards, I created PL/SQL procedures with     exception handling to automate the process of querying data.
+
+
+
