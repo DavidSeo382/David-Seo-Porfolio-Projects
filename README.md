@@ -12,7 +12,7 @@ Utilized Python to conduct data analysis on dataset that contain key indicators 
 
 # [Project 2: Covid-19 Database Design and SQL Procedures](https://github.com/DavidSeo382/Covid-19-Database-Design-and-SQL-Procedures)
 
-Designed a relational database where I created multiple tables linking them with primary-foreign key relationships. Afterwards, I created PL/SQL procedures to insert data with exception handling and to automate the process of querying data based on repetitive questions.
+Designed a relational database where I created multiple tables linking them with primary-foreign key relationships. Afterwards, I created PL/SQL procedures to insert my own made up personal data with exception handling along with automating the process of querying data based on repetitive questions.
 
 ## Tools / Languages Used:
 * SQL
@@ -32,8 +32,8 @@ Tasked with helping a fictional bike-share company increase user membership. Cre
   * Aggregation
   * Visualization
 * RStudio
-* Further visualization in Tableau
-* PowerPoint to represent findings
+* Tableau
+* Microsoft PowerPoint
 
 
 
