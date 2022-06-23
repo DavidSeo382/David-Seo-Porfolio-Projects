@@ -20,7 +20,7 @@ Utilized Python to conduct data analysis on dataset that contain key indicators 
 * Jupyter Notebook
 * Microsoft Powerpoint
 
-# [Project 3: Covid-19 Database Design and PL/SQL Procedures](https://github.com/DavidSeo382/Covid-19-Database-Design-and-SQL-Procedures)
+# [Project 3: Covid-19 Database Design and PL/SQL Procedures](https://github.com/DavidSeo382/Covid-19-Database-Design-and-PL-SQL-Procedures)
 
 Designed a relational database where I created multiple tables linking them with primary-foreign key relationships. Afterwards, I created PL/SQL procedures to insert my own made up personal data with exception handling along with automating the process of querying data based on repetitive questions.
 
@@ -31,7 +31,7 @@ Designed a relational database where I created multiple tables linking them with
 * Oracle Database
 
 
-# [Project 4: Data Analysis on a Bike-Sharing Company](https://github.com/DavidSeo382/Google-Data-Analytics-Capstone-Project)
+# [Project 4: Data Analysis on a Bike-Sharing Company](https://github.com/DavidSeo382/Data-Analysis-on-a-Bike-Sharing-Company)
 
 Tasked with helping a fictional bike-share company increase user membership. Created a business task and conducted various data analysis steps to uncover trends and findings. 
 
