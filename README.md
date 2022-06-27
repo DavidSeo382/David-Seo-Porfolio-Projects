@@ -41,9 +41,6 @@ Note: I plan on running this script for the next few weeks to build up as much d
   * Libraries: pandas, seaborn, os, time, json, requests.exceptions, and requests
 * Jupyter Notebooks
 
-## Files Included (In Order)
-* Jupyter Notebook File
-
 # [Project 5: Data Analysis on a Bike-Sharing Company](https://github.com/DavidSeo382/Data-Analysis-on-a-Bike-Sharing-Company)
 
 Tasked with helping a fictional bike-share company increase user membership. Created a business task and conducted various data analysis steps to uncover trends and findings. 
