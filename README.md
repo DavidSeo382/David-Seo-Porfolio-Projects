@@ -41,7 +41,15 @@ Note: I plan on running this script for the next few weeks to build up as much d
   * Libraries: pandas, seaborn, os, time, json, requests.exceptions, and requests
 * Jupyter Notebooks
 
-# [Project 5: Data Analysis on a Bike-Sharing Company](https://github.com/DavidSeo382/Data-Analysis-on-a-Bike-Sharing-Company)
+# [Project 5: Data Cleaning and Dashboard of Bike Sales in Excel](https://github.com/DavidSeo382/Excel-Bike-Sales)
+
+Took a dataset about Bike sales into Excel and created an interactive dashboard. Process involved first cleaning the data. This step consisted of removing duplicates, using filters to check for correct unique elements, changing cell formats, and using the find & replace feature to change cells to make it more cohesive for the analysis stage. For example, for one of the columns that contained the ages of individuals, I used the find & replace feature to create three seperate groups for ages rather than having ages ranging from 25 to 89. Afterwards, I created three Pivot Tables along with a bar chart and two line graphs. Then I created an interactive dashboard that used slicers for the three graphs to give the option of filtering them by their marital status, education, or region.
+
+## Tools / Languages Used:
+* Excel 
+ * Pivot Tables, Find & Replace, Filters, Graphs, Slicers, Remove Duplicates
+
+# [Project 6: Data Analysis on a Bike-Sharing Company](https://github.com/DavidSeo382/Data-Analysis-on-a-Bike-Sharing-Company)
 
 Tasked with helping a fictional bike-share company increase user membership. Created a business task and conducted various data analysis steps to uncover trends and findings. 
 
