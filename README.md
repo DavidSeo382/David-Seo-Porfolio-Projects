@@ -12,7 +12,7 @@ Conducted exploratory analysis of Covid-19 data in SQL. Utilized different skill
 
 # [Project 2: NFL Hall of Fame Web Scraper and Analysis](https://github.com/DavidSeo382/NFL-HOF-Webscraper-and-Analysis)
 
-First created a webscraper using the BeautifulSoup library from Python to scrape the a website that contained stats of every player in the NFL Hall of Fame. Afterwards, I cleaned the data and then used the os library to create a csv file. From here, I then analyzed the data by creating bar graphs and finding averages to see what qualifies someone to enter the Hall of Fame based on their stats and position.
+First created a webscraper using the BeautifulSoup library from Python to scrape a website that contained stats of every player in the NFL Hall of Fame. Afterwards, I cleaned the data and then used the os library to create a csv file. From here, I then analyzed the data by creating bar graphs and finding averages to see what qualifies someone to enter the Hall of Fame based on their stats and position.
 
 ## Tools / Languages Used:
 * Jupyter Notebooks
